@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E1B5199D1FA8721A00B688A4 /* Simulator Screen Shot - iPhone 8 - 2017-10-31 at 15.26.15.png in Resources */ = {isa = PBXBuildFile; fileRef = E1B5199C1FA8721700B688A4 /* Simulator Screen Shot - iPhone 8 - 2017-10-31 at 15.26.15.png */; };
 		E1FED4BF1FA856C400F8B4CC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E1FED4BE1FA856C400F8B4CC /* AppDelegate.m */; };
 		E1FED4C21FA856C400F8B4CC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E1FED4C11FA856C400F8B4CC /* ViewController.m */; };
 		E1FED4C51FA856C400F8B4CC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1FED4C31FA856C400F8B4CC /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E1B5199C1FA8721700B688A4 /* Simulator Screen Shot - iPhone 8 - 2017-10-31 at 15.26.15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 8 - 2017-10-31 at 15.26.15.png"; sourceTree = "<group>"; };
 		E1FED4BA1FA856C300F8B4CC /* GJProgressView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GJProgressView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1FED4BD1FA856C400F8B4CC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		E1FED4BE1FA856C400F8B4CC /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 		E1FED4BC1FA856C300F8B4CC /* GJProgressView */ = {
 			isa = PBXGroup;
 			children = (
+				E1B5199C1FA8721700B688A4 /* Simulator Screen Shot - iPhone 8 - 2017-10-31 at 15.26.15.png */,
 				E1FED4D31FA8572600F8B4CC /* GJProgressView */,
 				E1FED4BD1FA856C400F8B4CC /* AppDelegate.h */,
 				E1FED4BE1FA856C400F8B4CC /* AppDelegate.m */,
@@ -143,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E1FED4CA1FA856C400F8B4CC /* LaunchScreen.storyboard in Resources */,
+				E1B5199D1FA8721A00B688A4 /* Simulator Screen Shot - iPhone 8 - 2017-10-31 at 15.26.15.png in Resources */,
 				E1FED4C71FA856C400F8B4CC /* Assets.xcassets in Resources */,
 				E1FED4C51FA856C400F8B4CC /* Main.storyboard in Resources */,
 			);
